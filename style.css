@@ -1,0 +1,17 @@
+.regular-banner {
+    background-image: url(images/firework.jpg);
+    background-size: cover;
+    height: 200px;
+}
+
+.larger-banner {
+    background-image: url(images/opera.jpg);  
+    background-position: center;    
+    background-size: cover;
+    height: 500px;
+}
+
+.larger-banner-text {
+    padding: 15em;
+}
+
